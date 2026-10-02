@@ -1,5 +1,7 @@
 # Git-CMD-center
 Hackathon Project. 
+Check on netlify
+https://git-cmd-club.netlify.app/
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
